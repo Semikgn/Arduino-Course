@@ -1,2 +1,2 @@
 # Arduino-Course
-Arduino Course Works
+Arduino dersinde öğrendiğim kavramlardan bazılarını buraya yükledim. 
